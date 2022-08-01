@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <row id='607a762a41a14e314e2367e1'>
+    <is_deleted>true</is_deleted>
+    <id>8</id>
+    <status>1</status>
+    <name>Chinese Starter</name>
+    <cusine_image></cusine_image>
+  </row>
+  <row id='607a75bc41a14e314e2367da'>
+    <is_deleted>false</is_deleted>
+    <id>1</id>
+    <status>1</status>
+    <name>Indian</name>
+    <cusine_image></cusine_image>
+  </row>
+  <row id='607a76c041a14e314e2367ec'>
+    <is_deleted>true</is_deleted>
+    <id>17</id>
+    <status>1</status>
+    <name>Hot Drinks</name>
+    <cusine_image></cusine_image>
+  </row>
+  <row id='607a760b41a14e314e2367de'>
+    <is_deleted>true</is_deleted>
+    <id>5</id>
+    <status>1</status>
+    <name>Spanish</name>
+    <cusine_image></cusine_image>
+  </row>
+  <row id='607a762141a14e314e2367e0'>
+    <is_deleted>true</is_deleted>
+    <id>7</id>
+    <status>1</status>
+    <name>SeaFood</name>
+    <cusine_image></cusine_image>
+  </row>
+  <row id='607a75e941a14e314e2367db'>
+    <is_deleted>true</is_deleted>
+    <id>2</id>
+    <status>1</status>
+    <name>American</name>
+    <cusine_image></cusine_image>
+  </row>
+  <row id='607a761841a14e314e2367df'>
+    <is_deleted>true</is_deleted>
+    <id>6</id>
+    <status>1</status>
+    <name>Chinese</name>
+    <cusine_image></cusine_image>
+  </row>
+  <row id='607a75f541a14e314e2367dc'>
+    <is_deleted>true</is_deleted>
+    <id>3</id>
+    <status>1</status>
+    <name>Italian</name>
+    <cusine_image></cusine_image>
+  </row>
+  <row id='607a765d41a14e314e2367e4'>
+    <is_deleted>true</is_deleted>
+    <id>11</id>
+    <status>1</status>
+    <name>Fries</name>
+    <cusine_image></cusine_image>
+  </row>
+  <row id='607a767b41a14e314e2367e7'>
+    <is_deleted>true</is_deleted>
+    <id>14</id>
+    <status>1</status>
+    <name>Salad</name>
+    <cusine_image></cusine_image>
+  </row>
+  <row id='607a768641a14e314e2367e8'>
+    <is_deleted>true</is_deleted>
+    <id>15</id>
+    <status>1</status>
+    <name>Sandwiches</name>
+    <cusine_image></cusine_image>
+  </row>
+  <row id='607a76c041a14e314e2367eb'>
+    <is_deleted>true</is_deleted>
+    <id>16</id>
+    <status>1</status>
+    <name>Swahili</name>
+    <cusine_image></cusine_image>
+  </row>
+  <row id='607a760241a14e314e2367dd'>
+    <is_deleted>true</is_deleted>
+    <id>4</id>
+    <status>1</status>
+    <name>Mexican</name>
+    <cusine_image></cusine_image>
+  </row>
+  <row id='607a763e41a14e314e2367e3'>
+    <is_deleted>true</is_deleted>
+    <id>10</id>
+    <status>1</status>
+    <name>Grills</name>
+    <cusine_image></cusine_image>
+  </row>
+  <row id='607a763441a14e314e2367e2'>
+    <is_deleted>true</is_deleted>
+    <id>9</id>
+    <status>1</status>
+    <name>Cold Drinks</name>
+    <cusine_image></cusine_image>
+  </row>
+  <row id='607a766741a14e314e2367e5'>
+    <is_deleted>true</is_deleted>
+    <id>12</id>
+    <status>1</status>
+    <name>Dessert</name>
+    <cusine_image></cusine_image>
+  </row>
+  <row id='607a767241a14e314e2367e6'>
+    <is_deleted>true</is_deleted>
+    <id>13</id>
+    <status>1</status>
+    <name>Burger</name>
+    <cusine_image></cusine_image>
+  </row>
+</root>

@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <row id='607a75181d73ee308a9b1054'>
+    <is_deleted>false</is_deleted>
+    <id>6</id>
+    <status>0</status>
+    <cusines>3</cusines>
+    <cusines>6</cusines>
+    <cusines>9</cusines>
+    <cusines>15</cusines>
+    <latitude>-6.8106115</latitude>
+    <longitude>39.2839968</longitude>
+    <home_delivery></home_delivery>
+    <miles>0.0</miles>
+    <is_restaurant_verified>0</is_restaurant_verified>
+    <pos_rest_id>816300752</pos_rest_id>
+    <minimum_order>0</minimum_order>
+    <max_people>300</max_people>
+    <dine_in>1</dine_in>
+    <name>Selcom Restaurant</name>
+    <email>test123@domain.net</email>
+    <mobile_number>99900011100</mobile_number>
+    <restaurant_location>Testing HEIGHTS</restaurant_location>
+    <till_number>1111100000</till_number>
+    <preparation_time_id>0</preparation_time_id>
+    <open_time>12:00 pm</open_time>
+    <close_time>11:00 pm</close_time>
+  </row>
+  <row id='607a75541d73ee308a9b1058'>
+    <is_deleted>false</is_deleted>
+    <id>10</id>
+    <status>1</status>
+    <cusines>1</cusines>
+    <cusines>2</cusines>
+    <cusines>6</cusines>
+    <cusines>9</cusines>
+    <latitude>-6.75795</latitude>
+    <longitude>39.24901</longitude>
+    <home_delivery></home_delivery>
+    <miles>0.0</miles>
+    <is_restaurant_verified>0</is_restaurant_verified>
+    <pos_rest_id>816300340</pos_rest_id>
+    <minimum_order>0</minimum_order>
+    <max_people>20</max_people>
+    <dine_in>1</dine_in>
+    <name>Taa - Marinda</name>
+    <email>test123@domain.COM</email>
+    <mobile_number>99900011100</mobile_number>
+    <restaurant_location>Testing B</restaurant_location>
+    <till_number>1111100000</till_number>
+    <preparation_time_id>0</preparation_time_id>
+    <open_time>08:00 am</open_time>
+    <close_time>11:59 pm</close_time>
+  </row>
+  <row id='607a74eb1d73ee308a9b1052'>
+    <is_deleted>false</is_deleted>
+    <id>4</id>
+    <status>1</status>
+    <cusines>2</cusines>
+    <cusines>4</cusines>
+    <cusines>8</cusines>
+    <cusines>16</cusines>
+    <latitude>-6.78059</latitude>
+    <longitude>39.24021</longitude>
+    <home_delivery></home_delivery>
+    <miles>0.0</miles>
+    <is_restaurant_verified>0</is_restaurant_verified>
+    <pos_rest_id>816300327</pos_rest_id>
+    <minimum_order>0</minimum_order>
+    <name>The Milkybar Cafe</name>
+    <email>test123@domain.COM</email>
+    <mobile_number>99900011100</mobile_number>
+    <restaurant_location>Testing</restaurant_location>
+    <till_number>1111100000</till_number>
+    <preparation_time_id>0</preparation_time_id>
+    <open_time>07:00 am</open_time>
+    <close_time>10:00 pm</close_time>
+    <dine_in>1</dine_in>
+    <max_people>15</max_people>
+  </row>
+  <row id='607a75461d73ee308a9b1057'>
+    <is_deleted>false</is_deleted>
+    <id>9</id>
+    <status>1</status>
+    <cusines>1</cusines>
+    <cusines>4</cusines>
+    <cusines>7</cusines>
+    <cusines>13</cusines>
+    <latitude>-6.75816</latitude>
+    <longitude>39.24948</longitude>
+    <home_delivery></home_delivery>
+    <miles>0.0</miles>
+    <is_restaurant_verified>0</is_restaurant_verified>
+    <pos_rest_id>816300331</pos_rest_id>
+    <minimum_order>0</minimum_order>
+    <max_people>15</max_people>
+    <dine_in>1</dine_in>
+    <name>Scott&#x27;s Pizza</name>
+    <email>test123@domain.COM</email>
+    <mobile_number>99900011100</mobile_number>
+    <restaurant_location>Testing B</restaurant_location>
+    <till_number>1111100000</till_number>
+    <preparation_time_id>0</preparation_time_id>
+    <open_time>11:00 am</open_time>
+    <close_time>11:00 pm</close_time>
+  </row>
+  <row id='607a75281d73ee308a9b1055'>
+    <is_deleted>false</is_deleted>
+    <id>7</id>
+    <status>0</status>
+    <cusines>11</cusines>
+    <cusines>16</cusines>
+    <cusines>17</cusines>
+    <cusines>5</cusines>
+    <latitude>-6.78522</latitude>
+    <longitude>39.24166</longitude>
+    <home_delivery></home_delivery>
+    <miles>0.0</miles>
+    <is_restaurant_verified>0</is_restaurant_verified>
+    <pos_rest_id>817300339</pos_rest_id>
+    <minimum_order>0</minimum_order>
+    <max_people>20</max_people>
+    <dine_in>1</dine_in>
+    <name>Pizza Mia</name>
+    <email>test123@domain.COM</email>
+    <mobile_number>99900011100</mobile_number>
+    <restaurant_location>Testing</restaurant_location>
+    <till_number>1111100000</till_number>
+    <preparation_time_id>0</preparation_time_id>
+    <open_time>04:00 pm</open_time>
+    <close_time>11:59 pm</close_time>
+  </row>
+  <row id='607a74776ece49304d5f9f52'>
+    <is_deleted>false</is_deleted>
+    <id>1</id>
+    <status>1</status>
+    <cusines>14</cusines>
+    <cusines>10</cusines>
+    <cusines>17</cusines>
+    <cusines>1</cusines>
+    <latitude>-6.78522</latitude>
+    <longitude>39.24166</longitude>
+    <home_delivery></home_delivery>
+    <miles>0.0</miles>
+    <is_restaurant_verified>0</is_restaurant_verified>
+    <pos_rest_id>817300655</pos_rest_id>
+    <minimum_order>0</minimum_order>
+    <name>The Bar in Dar</name>
+    <email>test123@domain.COM</email>
+    <mobile_number>99900011100</mobile_number>
+    <restaurant_location>Testing</restaurant_location>
+    <till_number>1111100000</till_number>
+    <preparation_time_id>0</preparation_time_id>
+    <open_time>11:00 am</open_time>
+    <close_time>11:59 pm</close_time>
+    <dine_in>1</dine_in>
+    <max_people>15</max_people>
+  </row>
+  <row id='607a74d61d73ee308a9b1051'>
+    <is_deleted>false</is_deleted>
+    <id>3</id>
+    <status>1</status>
+    <cusines>7</cusines>
+    <cusines>13</cusines>
+    <cusines>17</cusines>
+    <cusines>2</cusines>
+    <latitude>-6.81288</latitude>
+    <longitude>39.277031</longitude>
+    <home_delivery></home_delivery>
+    <miles>0.0</miles>
+    <is_restaurant_verified>0</is_restaurant_verified>
+    <pos_rest_id>816300333</pos_rest_id>
+    <minimum_order>0</minimum_order>
+    <name>Mela Restaurant</name>
+    <email>test123@domain.COM</email>
+    <mobile_number>99900011100</mobile_number>
+    <restaurant_location>Testing Upanga</restaurant_location>
+    <till_number>1111100000</till_number>
+    <preparation_time_id>0</preparation_time_id>
+    <open_time>11:30 am</open_time>
+    <close_time>03:00 pm</close_time>
+    <dine_in>1</dine_in>
+    <max_people>15</max_people>
+  </row>
+  <row id='607a75331d73ee308a9b1056'>
+    <is_deleted>false</is_deleted>
+    <id>8</id>
+    <status>0</status>
+    <cusines>4</cusines>
+    <cusines>6</cusines>
+    <cusines>11</cusines>
+    <latitude>-6.81731</latitude>
+    <longitude>39.28208</longitude>
+    <home_delivery></home_delivery>
+    <miles>0.0</miles>
+    <is_restaurant_verified>0</is_restaurant_verified>
+    <pos_rest_id>817300338</pos_rest_id>
+    <minimum_order>0</minimum_order>
+    <max_people>0</max_people>
+    <dine_in>0</dine_in>
+    <name>Rugantino</name>
+    <email>test123@domain.CO</email>
+    <mobile_number>99900011100</mobile_number>
+    <restaurant_location>Testing Centre</restaurant_location>
+    <till_number>1111100000</till_number>
+    <preparation_time_id>0</preparation_time_id>
+    <open_time>09:00 am</open_time>
+    <close_time>11:00 pm</close_time>
+  </row>
+  <row id='607a74ff1d73ee308a9b1053'>
+    <is_deleted>false</is_deleted>
+    <id>5</id>
+    <status>0</status>
+    <cusines>2</cusines>
+    <cusines>7</cusines>
+    <cusines>8</cusines>
+    <latitude>-6.2</latitude>
+    <longitude>39.3</longitude>
+    <home_delivery></home_delivery>
+    <miles>0.0</miles>
+    <is_restaurant_verified>0</is_restaurant_verified>
+    <pos_rest_id>817300335</pos_rest_id>
+    <minimum_order>0</minimum_order>
+    <max_people>25</max_people>
+    <dine_in>1</dine_in>
+    <name>Kalimiz</name>
+    <email>test123@domain.COM</email>
+    <mobile_number>99900011100</mobile_number>
+    <restaurant_location>Testing Centre</restaurant_location>
+    <till_number>1111100000</till_number>
+    <preparation_time_id>0</preparation_time_id>
+    <open_time>09:00 am</open_time>
+    <close_time>11:00 pm</close_time>
+  </row>
+  <row id='607a75611d73ee308a9b1059'>
+    <is_deleted>false</is_deleted>
+    <id>11</id>
+    <status>1</status>
+    <cusines>11</cusines>
+    <cusines>17</cusines>
+    <cusines>8</cusines>
+    <cusines>4</cusines>
+    <latitude>-6.78771</latitude>
+    <longitude>39.27301</longitude>
+    <home_delivery></home_delivery>
+    <miles>0.0</miles>
+    <is_restaurant_verified>0</is_restaurant_verified>
+    <pos_rest_id>816300329</pos_rest_id>
+    <minimum_order>0</minimum_order>
+    <max_people>15</max_people>
+    <dine_in>0</dine_in>
+    <name>Kitimoto Masterz</name>
+    <email>test123@domain.COM</email>
+    <mobile_number>99900011100</mobile_number>
+    <restaurant_location>Testing</restaurant_location>
+    <till_number>1111100000</till_number>
+    <preparation_time_id>0</preparation_time_id>
+    <open_time>12:00 pm</open_time>
+    <close_time>10:00 pm</close_time>
+  </row>
+  <row id='607a74b81d73ee308a9b1050'>
+    <is_deleted>false</is_deleted>
+    <id>2</id>
+    <status>1</status>
+    <cusines>12</cusines>
+    <cusines>17</cusines>
+    <cusines>3</cusines>
+    <cusines>10</cusines>
+    <latitude>-6.8087143</latitude>
+    <longitude>39.2825383</longitude>
+    <home_delivery></home_delivery>
+    <miles>0.0</miles>
+    <is_restaurant_verified>0</is_restaurant_verified>
+    <pos_rest_id>816300335</pos_rest_id>
+    <minimum_order>0</minimum_order>
+    <name>The Backyard</name>
+    <email>test123@domain.COM</email>
+    <mobile_number>99900011100</mobile_number>
+    <restaurant_location>Testing</restaurant_location>
+    <till_number>1111100000</till_number>
+    <preparation_time_id>0</preparation_time_id>
+    <open_time>11:00 am</open_time>
+    <close_time>11:30 pm</close_time>
+    <dine_in>1</dine_in>
+    <max_people>200</max_people>
+  </row>
+</root>
